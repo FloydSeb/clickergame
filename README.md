@@ -1,0 +1,1 @@
+this is a repository PAINSTAKINGLY made by YOURS TRULY!!! this contains the code for... my FIRST EVER coding project EVER!!!! made in godot, its a clicker game, hence the repo name "clickergame". heh.... If ur reading this then i guess i became kinda famous eh?! nearly falling asleep whil writing this. made on 9/7/25, 10:59PM CST. Good day to you!!
